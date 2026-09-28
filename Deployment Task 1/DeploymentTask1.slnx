@@ -1,0 +1,16 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Package1_Task1/Package1_Task1.wixproj" Type="b7dd6f7e-def8-4e67-b5b7-07ef123db6f0" Id="f9c77c54-8e52-4723-b498-5d3984f99cc8">
+    <Platform Solution="*|Any CPU" Project="x64" />
+  </Project>
+  <Project Path="../Package2_Task1/Package2_Task1.wixproj" Type="b7dd6f7e-def8-4e67-b5b7-07ef123db6f0" Id="73c9d952-f2c5-4ad2-99f5-3834529c08b9">
+    <Platform Solution="*|Any CPU" Project="x64" />
+  </Project>
+  <Project Path="../Task1_2_RockPaperScissors/Task1_2_RockPaperScissors.csproj" Id="13e96c0b-f191-4008-88d7-014adeff5c2a" />
+  <Project Path="DeploymentTask1.csproj" Id="8fdc1539-7080-4747-ad49-5c304b27a134" />
+</Solution>

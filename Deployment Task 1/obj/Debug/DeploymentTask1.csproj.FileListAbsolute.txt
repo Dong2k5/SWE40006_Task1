@@ -1,0 +1,9 @@
+C:\Users\ACER\Task1\Deployment Task 1\bin\Debug\Deployment Task 1.exe.config
+C:\Users\ACER\Task1\Deployment Task 1\bin\Debug\Deployment Task 1.exe
+C:\Users\ACER\Task1\Deployment Task 1\bin\Debug\Deployment Task 1.pdb
+C:\Users\ACER\Task1\Deployment Task 1\obj\Debug\DeploymentTask1.csproj.AssemblyReference.cache
+C:\Users\ACER\Task1\Deployment Task 1\obj\Debug\Deployment_Task_1.Properties.Resources.resources
+C:\Users\ACER\Task1\Deployment Task 1\obj\Debug\DeploymentTask1.csproj.GenerateResource.cache
+C:\Users\ACER\Task1\Deployment Task 1\obj\Debug\DeploymentTask1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Task1\Deployment Task 1\obj\Debug\Deployment Task 1.exe
+C:\Users\ACER\Task1\Deployment Task 1\obj\Debug\Deployment Task 1.pdb
