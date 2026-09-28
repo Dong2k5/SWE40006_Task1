@@ -1,0 +1,10 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Fragment>
+    <ComponentGroup Id="ExampleComponents" 
+					Directory="INSTALLFOLDER">
+      <Component>
+        <File Source="$(var.Task1_2_RockPaperScissors.TargetDir)\Task1_2_RockPaperScissors.exe" />
+      </Component>
+    </ComponentGroup>
+  </Fragment>
+</Wix>

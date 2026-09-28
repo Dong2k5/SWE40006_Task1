@@ -1,0 +1,9 @@
+﻿<Project Sdk="WixToolset.Sdk/7.0.0">
+  <ItemGroup>
+    <ProjectReference Include="..\Task1_2_RockPaperScissors\Task1_2_RockPaperScissors.csproj" />
+  </ItemGroup>
+
+	<PropertyGroup>
+		<AcceptEula>wix7</AcceptEula>
+	</PropertyGroup>
+</Project>
